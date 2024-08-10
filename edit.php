@@ -48,5 +48,6 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
     </form>
     <br>
     <a href="index.php">Back to List</a>
+    
 </body>
 </html>
